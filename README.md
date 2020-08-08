@@ -15,7 +15,7 @@ After HANGED don't press any key to view the last screen shot but waiting 'll be
 
 ![](./Blog/Hangman3.png)
 
-Download the exe [Hangman.exe][exe] and the code [Hangman.cpp][cpp]. I know its ugly :)
+Download the executable [Hangman.exe][exe] and the code [Hangman.cpp][cpp]. I know its ugly :)
 
 [turbo]: http://en.wikipedia.org/wiki/Turbo_C%2B%2B
 [exe]: Hangman.exe
