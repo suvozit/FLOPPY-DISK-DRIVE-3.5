@@ -20,3 +20,6 @@ Download the exe [Hangman.exe][exe] and the code [Hangman.cpp][cpp]. I know its 
 [turbo]: http://en.wikipedia.org/wiki/Turbo_C%2B%2B
 [exe]: Hangman.exe
 [cpp]: Source%20Code/Hangman.cpp
+
+[Blogger](https://bitsits.blogspot.com/2010/06/hangman-my-first-game.html)
+[Tumblr](https://suvozit.tumblr.com/post/96197821158/hangman-my-first-game-this-was-my-first-game)
